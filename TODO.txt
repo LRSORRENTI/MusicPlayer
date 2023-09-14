@@ -1,0 +1,17 @@
+1. Gather assets (Music + Thumbnails)
+
+2. Setup HTML / CSS 
+
+3. Dynamically get songs from an array 
+
+4. Ensure song plays audibly
+
+5. Progress bar updates with duration of song 
+
+6. Play / Pause functionality 
+
+7. Switch songs (next / prev buttons)
+
+8. Shuffle songs implementation
+
+9. Repeat single song button 
